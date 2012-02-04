@@ -14,7 +14,7 @@ Most importantly, have fun!
 
 Exercise #0
 -----------
-To get started you'll fork our project at GitHub found at [http://github.com/thrashr888/frontend\_code\_test](http://github.com/thrashr888/frontend_code_test "Frontent Code Test Repo at GitHub").
+To get started you'll fork our project at GitHub found at [http://github.com/thrashr888/frontend_code_test](http://github.com/thrashr888/frontend_code_test "Frontent Code Test Repo at GitHub").
 
     git clone git@github.com:thrashr888/Frontend-Code-Test.git
 
