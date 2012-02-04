@@ -62,7 +62,7 @@ The image for the comment count can be found in the img folder. You can use plac
 
 Exercise #4
 -----------
-Make a new link called "Sidebar" in the nav that hides and shows the sidebar 3 seconds after you click on it. On hover, make a new link called "Blue" in the nav that turns all the links on the page blue except for the "Blue" link.
+Make a new link called "Sidebar" in the nav that hides and shows the sidebar 3 seconds after you click on it. Make a new link called "Blue" in the nav that, on hover, turns all the links on the page blue except for the "Blue" link.
 
 Exercise #5
 -----------
