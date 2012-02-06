@@ -38,21 +38,8 @@ The header section should contain a nav with three links:
 - Home ( index.html )
 - About ( /about )
 - Blog ( /blog )
-
+    
 Exercise #2
------------
-In the sidebar section, create a form for a poll with 4 options. The last option will be an input box for custom text. It will POST to the url "/poll/submit". In the browser, it should look something like this:
-
-    My Favorite Dog Breed
-    
-    * Boxer
-    * Hound
-    * German Shepherd
-    * [ Custom Input ]
-    
-    [ Submit Button ]
-    
-Exercise #3
 -----------
 ![HTML Layout](https://img.skitch.com/20120204-rhp7q6h6er1j2dwsm8pf3yd4pa.jpg "HTML Layout")
 
@@ -60,15 +47,15 @@ In the content section, rebuild this design in HTML5 and CSS3. You don't need to
 
 The image for the comment count can be found in the img folder. You can use placekitten.com for the larger images (e.g. &lt;img src=&quot;http://placekitten.com/140/120&quot; /&gt;).
 
-Exercise #4
+Exercise #3
 -----------
 Make a new link called "Sidebar" in the nav that hides and shows the sidebar 3 seconds after you click on it. Make a new link called "Blue" in the nav that, on hover, turns all the links on the page blue except for the "Blue" link.
 
-Exercise #5
+Exercise #4
 -----------
 Write documentation about the project, including code comments.
 
-Exercise #6
+Exercise #5
 -----------
 Before the time is up, commit your changes into git and push them back to the server.
 
