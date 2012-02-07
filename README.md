@@ -6,14 +6,14 @@ Overview
 
 This worksheet is intended to provide an opportunity for you, an engineering applicant, to demonstrate your software engineering knowledge.
 
-For any exercise which requires coding, we are looking to see how you solve the problem. The logic you employ and the approach you take to solve the problem are the most interesting to us. Each of the given problems have at least a handful of valid solutions, and possibly other solutions weʼve never seen. So, donʼt worry about finding “the” solution. Provide a solution that you like. You should NOT use any 3rd party plugins to solve any of the exercises.
+The logic you employ and the approach you take to solve the problem are the most interesting to us. Each of the given problems have at least a handful of valid solutions, and possibly other solutions weʼve never seen. So, donʼt worry about finding “the” solution. Provide a solution that you like. You should NOT use any 3rd party plugins to solve any of the exercises.
 
-Please review the exercises first. If anything is unclear or confusing, please contact us in the first 30 minutes and we will help clarify any issues.
+Please review the exercises first. If anything is unclear or confusing, please contact us and we will help clarify any issues.
 
 Most importantly, have fun! 
 
-Exercise #0
------------
+Getting Started
+---------------
 To get started you'll fork our project at GitHub found at [http://github.com/thrashr888/frontend_code_test](http://github.com/thrashr888/frontend_code_test "Frontent Code Test Repo at GitHub").
 
     git clone git@github.com:thrashr888/Frontend-Code-Test.git
@@ -51,12 +51,8 @@ Exercise #3
 -----------
 Make a new link called "Sidebar" in the nav that hides and shows the sidebar 3 seconds after you click on it. Make a new link called "Blue" in the nav that, on hover, turns all the links on the page blue except for the "Blue" link.
 
-Exercise #4
------------
-Write documentation about the project, including code comments.
-
-Exercise #5
------------
+Finish Up
+---------
 Before the time is up, commit your changes into git and push them back to the server.
 
     git push origin master
