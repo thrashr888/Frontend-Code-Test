@@ -16,7 +16,7 @@ Getting Started
 ---------------
 To get started you'll fork our project at GitHub found at [http://github.com/thrashr888/frontend_code_test](http://github.com/thrashr888/frontend_code_test "Frontent Code Test Repo at GitHub").
 
-    git clone git@github.com:thrashr888/Frontend-Code-Test.git
+    git clone git@github.com:<your github username here>/Frontend-Code-Test.git
 
 Commit each exercise when you're done with it. For example:
 
@@ -42,6 +42,8 @@ The header section should contain a nav with three links:
 Exercise #2
 -----------
 ![HTML Layout](https://img.skitch.com/20120204-rhp7q6h6er1j2dwsm8pf3yd4pa.jpg "HTML Layout")
+
+https://img.skitch.com/20120204-rhp7q6h6er1j2dwsm8pf3yd4pa.jpg
 
 In the content section, rebuild this design in HTML5 and CSS3. You don't need to perfectly match exact pixel sizes, fonts, or colors for this exercise but it should look as similar as possible. You can also use lorem-ipsum or placeholder text.
 
