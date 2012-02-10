@@ -6,7 +6,7 @@ Overview
 
 This worksheet is intended to provide an opportunity for you, an engineering applicant, to demonstrate your software engineering knowledge.
 
-The logic you employ and the approach you take to solve the problem are the most interesting to us. Each of the given problems have at least a handful of valid solutions, and possibly other solutions weʼve never seen. So, donʼt worry about finding “the” solution. Provide a solution that you like. You should NOT use any 3rd party plugins to solve any of the exercises.
+The logic you employ and the approach you take to solve the problem are the most interesting to us. Each of the given problems have at least a handful of valid solutions, and possibly other solutions weʼve never seen. So, donʼt worry about finding "the" solution. Provide a solution that you like. You should NOT use any 3rd party plugins to solve any of the exercises.
 
 Please review the exercises first. If anything is unclear or confusing, please contact us and we will help clarify any issues.
 
@@ -14,7 +14,7 @@ Most importantly, have fun!
 
 Getting Started
 ---------------
-To get started you'll fork our project at GitHub found at [http://github.com/thrashr888/frontend_code_test](http://github.com/thrashr888/frontend_code_test "Frontent Code Test Repo at GitHub").
+To get started you'll fork our project at GitHub found at [https://github.com/thrashr888/Frontend-Code-Test](https://github.com/thrashr888/Frontend-Code-Test "Frontent Code Test Repo at GitHub").
 
     git clone git@github.com:<your github username here>/Frontend-Code-Test.git
 
@@ -22,6 +22,8 @@ Commit each exercise when you're done with it. For example:
 
     git add .
     git commit -m'Exercise #1'
+
+If git is not available or GitHub is not working for you, you can download the test as a Zip file at [https://github.com/thrashr888/Frontend-Code-Test/zipball/master](https://github.com/thrashr888/Frontend-Code-Test/zipball/master "Download the Frontend Code Test files from GitHub")
 
 Exercise #1
 -----------
@@ -43,7 +45,7 @@ Exercise #2
 -----------
 ![HTML Layout](https://img.skitch.com/20120204-rhp7q6h6er1j2dwsm8pf3yd4pa.jpg "HTML Layout")
 
-https://img.skitch.com/20120204-rhp7q6h6er1j2dwsm8pf3yd4pa.jpg
+You can also see the image files at [https://img.skitch.com/20120204-rhp7q6h6er1j2dwsm8pf3yd4pa.jpg](https://img.skitch.com/20120204-rhp7q6h6er1j2dwsm8pf3yd4pa.jpg) or [http://d.pr/49xE](http://d.pr/49xE).
 
 In the content section, rebuild this design in HTML5 and CSS3. You don't need to perfectly match exact pixel sizes, fonts, or colors for this exercise but it should look as similar as possible. You can also use lorem-ipsum or placeholder text.
 
