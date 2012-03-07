@@ -6,7 +6,7 @@ Overview
 
 This worksheet is intended to provide an opportunity for you, an engineering applicant, to demonstrate your software engineering knowledge.
 
-The logic you employ and the approach you take to solve the problem are the most interesting to us. Each of the given problems have at least a handful of valid solutions, and possibly other solutions weʼve never seen. So, donʼt worry about finding "the" solution. Provide a solution that you like. You should NOT use any 3rd party plugins to solve any of the exercises.
+The logic you employ and the approach you take to solve the problem are the most interesting to us. Each of the given problems have at least a handful of valid solutions, and possibly other solutions weʼve never seen. So, donʼt worry about finding "the" solution. Provide a solution that you like. You should NOT use any 3rd party plugins to solve any of the exercises. You can use any IDE or code editor you choose and it's okay to use Google search for help.
 
 Please review the exercises first. If anything is unclear or confusing, please contact us and we will help clarify any issues.
 
@@ -20,8 +20,7 @@ To get started you'll fork our project at GitHub found at [https://github.com/th
 
 Commit each exercise when you're done with it. For example:
 
-    git add .
-    git commit -m'Exercise #1'
+    git commit -a -m'Exercise #1'
 
 If git is not available or GitHub is not working for you, you can download the test as a Zip file at [https://github.com/thrashr888/Frontend-Code-Test/zipball/master](https://github.com/thrashr888/Frontend-Code-Test/zipball/master "Download the Frontend Code Test files from GitHub")
 
