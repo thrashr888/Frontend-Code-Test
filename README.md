@@ -57,8 +57,10 @@ Make a new link called "Sidebar" in the nav that hides and shows the sidebar 3 s
 
 Finish Up
 ---------
-Before the time is up, commit your changes into git and push them back to the server.
+If you used git, commit your changes into git and push them back to the server.
 
     git push origin master
 
 Send us a link to your fork in GitHub and you're all done!
+
+If you originally downloaded the files instead, please send us a zip or tarball of your project.
