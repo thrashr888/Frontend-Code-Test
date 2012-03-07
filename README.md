@@ -6,7 +6,7 @@ Overview
 
 This worksheet is intended to provide an opportunity for you, an engineering applicant, to demonstrate your software engineering knowledge.
 
-The logic you employ and the approach you take to solve the problem are the most interesting to us. Each of the given problems have at least a handful of valid solutions, and possibly other solutions weʼve never seen. So, donʼt worry about finding "the" solution. Provide a solution that you like. You should NOT use any 3rd party plugins to solve any of the exercises. You can use any IDE or code editor you choose and it's okay to use Google search for help.
+The logic you employ and the approach you take to solve the problem are the most interesting to us. Each of the given problems have at least a handful of valid solutions, and possibly other solutions weʼve never seen. So, donʼt worry about finding "the" solution. Provide a solution that you like. You should NOT use any 3rd party plugins to solve any of the exercises besides the jQuery url provided. You can use any IDE or code editor you choose, any browser for testing your code (we recommend Chrome or Firefox), and it's okay to use Google search for help.
 
 Please review the exercises first. If anything is unclear or confusing, please contact us and we will help clarify any issues.
 
@@ -46,7 +46,7 @@ Exercise #2
 
 You can also see the image files at [https://img.skitch.com/20120204-rhp7q6h6er1j2dwsm8pf3yd4pa.jpg](https://img.skitch.com/20120204-rhp7q6h6er1j2dwsm8pf3yd4pa.jpg) or [http://d.pr/49xE](http://d.pr/49xE).
 
-In the content section, rebuild this design in HTML5 and CSS3. You don't need to perfectly match exact pixel sizes, fonts, or colors for this exercise but it should look as similar as possible. You can also use lorem-ipsum or placeholder text.
+In the content section of index.html, rebuild this design in HTML5 and CSS3. You don't need to perfectly match exact pixel sizes, fonts, or colors for this exercise but it should look as similar as possible. You can also use lorem-ipsum or placeholder text.
 
 The image for the comment count can be found in the img folder. You can use placekitten.com for the larger images (e.g. &lt;img src=&quot;http://placekitten.com/140/120&quot; /&gt;).
 
