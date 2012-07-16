@@ -1,4 +1,4 @@
-SAY Media Front-end Coder Test
+SAY Media Frontend Code Test
 ==============================
 
 Overview
@@ -26,7 +26,7 @@ If git is not available or GitHub is not working for you, you can download the t
 
 Exercise #1
 -----------
-Create an HTML5 page with header, footer and main sections in index.html. The main section should contain a content section and a sidebar. Set the width of the content section to 660 pixels and the sidebar section to 300 pixels. Make the sidebar float to the right side of the content section.
+Create an **HTML5** page with header, footer and main sections in index.html. The main section should contain a content section and a sidebar. Set the width of the content section to 660 pixels and the sidebar section to 300 pixels. Make the sidebar float to the right side of the content section.
 
 Index.html should include these scripts:
 
