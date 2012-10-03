@@ -4,7 +4,7 @@ SAY Media Frontend Code Test
 Overview
 --------
 
-This worksheet is intended to provide an opportunity for you, an engineering applicant, to demonstrate your software engineering knowledge.
+This test is intended to provide an opportunity for you, an engineering applicant, to demonstrate your software engineering knowledge.
 
 The logic you employ and the approach you take to solve the problem are the most interesting to us. Each of the given problems have at least a handful of valid solutions, and possibly other solutions weʼve never seen. So, donʼt worry about finding "the" solution. Provide a solution that you like. You should NOT use any 3rd party plugins to solve any of the exercises besides the jQuery url provided. You can use any IDE or code editor you choose, any browser for testing your code (we recommend Chrome or Firefox), and it's okay to use Google search for help.
 
