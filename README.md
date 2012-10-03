@@ -48,7 +48,13 @@ You can also see the image files at [https://img.skitch.com/20120204-rhp7q6h6er1
 
 In the content section of index.html, rebuild this design in HTML5 and CSS3. You don't need to perfectly match exact pixel sizes, fonts, or colors for this exercise but it should look as similar as possible. You can also use lorem-ipsum or placeholder text.
 
-The image for the comment count can be found in the img folder. You can use placekitten.com for the larger images (e.g. &lt;img src=&quot;http://placekitten.com/140/120&quot; /&gt;).
+The image for the comment count can be found in the img folder ([and in this GitHub repo](https://raw.github.com/thrashr888/Frontend-Code-Test/master/img/icon-comment-gry.png) ![comment](https://raw.github.com/thrashr888/Frontend-Code-Test/master/img/icon-comment-gry.png)). You can use placekitten.com for the larger images (e.g. `<img src="http://placekitten.com/140/120" />`).
+
+The sample text:
+
+    The clever staff at NextMovie realized that it's a dog's world, and have recast the nine Academy Awards Best Picture nominiees with dogs as the top award winners at the Academy Awards where the dogs are considered...
+    
+    A man walking his two lap dogs off-leash in an area that had been off-leash for years until December ended up at the wrong end...
 
 Exercise #3
 -----------
