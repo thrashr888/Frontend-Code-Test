@@ -30,9 +30,9 @@ Create an **HTML5** page with header, footer and main sections in index.html. Th
 
 Index.html should include these scripts:
 
-- https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js
-- test.js
-- test.css
+- `https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js`
+- `test.js`
+- `test.css`
 
 The header section should contain a nav with three links:
 
