@@ -42,9 +42,9 @@ The header section should contain a nav with three links:
     
 Exercise #2
 -----------
-![HTML Layout](https://img.skitch.com/20120204-rhp7q6h6er1j2dwsm8pf3yd4pa.jpg "HTML Layout")
+![HTML Layout](http://thrashr888-img.s3.amazonaws.com/20120204-rhp7q6h6er1j2dwsm8pf3yd4pa.jpg "HTML Layout")
 
-You can also see the image files at [https://img.skitch.com/20120204-rhp7q6h6er1j2dwsm8pf3yd4pa.jpg](https://img.skitch.com/20120204-rhp7q6h6er1j2dwsm8pf3yd4pa.jpg) or [http://d.pr/49xE](http://d.pr/49xE).
+You can also see the image files at [http://thrashr888-img.s3.amazonaws.com/20120204-rhp7q6h6er1j2dwsm8pf3yd4pa.jpg](http://thrashr888-img.s3.amazonaws.com/20120204-rhp7q6h6er1j2dwsm8pf3yd4pa.jpg).
 
 In the content section of index.html, rebuild this design in HTML5 and CSS3. You don't need to perfectly match exact pixel sizes, fonts, or colors for this exercise but it should look as similar as possible. You can also use lorem-ipsum or placeholder text.
 
